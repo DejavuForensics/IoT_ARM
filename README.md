@@ -10,8 +10,7 @@ https://doi.org/10.1007/s11227-024-06506-x
 
 ## How to use our dataset in Python with ELM (Extreme Learning Machine)
 
-python [melm.py](https://github.com/DejavuForensics/mELM/melm.py) -tall [Antivirus_Dataset_IoT_SPARC_mELM_format.csv](https://github.com/DejavuForensics/IoT_ARM/blob/main/Antivirus_Dataset_IoT_ARM_mELM_format.csv
-) -kfold 10 -virusNorm -ty 1 -nh 500 -af dilation -v
+python [melm.py](https://github.com/DejavuForensics/mELM/melm.py) -tall [Antivirus_Dataset_IoT_SPARC_mELM_format.csv](https://github.com/DejavuForensics/IoT_ARM/blob/main/Antivirus_Dataset_IoT_ARM_mELM_format.csv) -kfold 10 -virusNorm -ty 1 -nh 500 -af dilation -v
 
 ## Commercial Antivirus Limitation
 
